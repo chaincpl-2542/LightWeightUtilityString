@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\LightWeightUtilityString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|C:\\Github\\LightWeightUtilityString\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|C:\\Github\\LightWeightUtilityString\\MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|solutionrelative:MyString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|C:\\Github\\LightWeightUtilityString\\MyString.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F70416A-3E4B-4941-9FDB-0F82489995DD}|LightWeight_UtilityString.vcxproj|solutionrelative:MyString.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Github\\LightWeightUtilityString\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Github\\LightWeightUtilityString\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:16:12.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b9588351-d0e3-47ea-98ac-e298e76e7d00",
+        "Display": 1,
+        "X": 397,
+        "Y": 300,
+        "Width": 1284,
+        "Height": 536,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyString.cpp",
+              "DocumentMoniker": "C:\\Github\\LightWeightUtilityString\\MyString.cpp",
+              "RelativeDocumentMoniker": "MyString.cpp",
+              "ToolTip": "C:\\Github\\LightWeightUtilityString\\MyString.cpp",
+              "RelativeToolTip": "MyString.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:16:14.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyString.hpp",
+              "DocumentMoniker": "C:\\Github\\LightWeightUtilityString\\MyString.hpp",
+              "RelativeDocumentMoniker": "MyString.hpp",
+              "ToolTip": "C:\\Github\\LightWeightUtilityString\\MyString.hpp",
+              "RelativeToolTip": "MyString.hpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:16:16.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
